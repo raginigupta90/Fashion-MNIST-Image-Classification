@@ -45,7 +45,7 @@ python train_model.py
 # Test the model
 python predict.py
 
-Results
+# Results
 
 Achieved ~90% test accuracy.
 
